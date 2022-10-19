@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>IntroductionToCsharp.ObjectsAndClasses.Student</StartupObject>
+    <StartupObject>IntroductionToCsharp.PrivateConstructor.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,11 @@
   <ItemGroup>
     <Compile Include="Add.cs" />
     <Compile Include="Concatinate.cs" />
+    <Compile Include="CopyConstructor.cs" />
+    <Compile Include="ParametriseConstructor.cs" />
+    <Compile Include="PrivateConstructor.cs" />
+    <Compile Include="StaticConstructor.cs" />
+    <Compile Include="Construcutor.cs" />
     <Compile Include="DataTypeCsharp.cs" />
     <Compile Include="DateTimeFormatEspecifier.cs" />
     <Compile Include="ObjectsAndClasses.cs" />
